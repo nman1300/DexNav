@@ -1,0 +1,1 @@
+DexNav is an application designed to make tracking your pokemon collection a breeze.
